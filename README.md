@@ -27,6 +27,7 @@ Na aba **APP**, a ferramenta recolhe os parâmetros do utilizador e responde dir
 Utilizada para calcular o património acumulado em juros compostos:
 ```excel
 =FV(taxa_mensal; qtd_anos*12; aporte*-1)
+```
 
 
 
